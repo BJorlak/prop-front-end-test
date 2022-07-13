@@ -51,7 +51,7 @@ export default function App() {
   return (
     <>
       <img src={logo} />
-      <h1>Pokemon Evolutions</h1>
+      <h1>Pokedex</h1>
       <div className="App">
         <ShowPokemon pokemon={pokemon} />
       </div>
