@@ -1,0 +1,9 @@
+.pokemon-layout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #fecb02;
+  border-radius: 1em;
+  box-shadow: 0.1em 0.1em 0.1em 0.1em rgb(100, 100, 100);
+  margin: 1em;
+}
